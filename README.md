@@ -15,3 +15,6 @@ Follow the instuctions
     1. Copy Test_without_Data_balancing.csv to current folder 
     2. Copy Train_without_Data_balancing.csv to current folder
     3. Run xgboost,py file
+
+link to all other codes and preprocessing notebook 
+    https://github.com/Darshitpipariya/ML_project_Fruad_detection
